@@ -9,7 +9,7 @@ I am an Applied Scientist at Amazon.com, based in Seattle, WA (US). My general r
 - ⚡ Fun fact: In my free time, I'm passionate about open source, music, and video games!
 
 ## 📫 Connect with me:
-* [Home page](https://thmosqueiro.vanroiy.com)
+* [Home page](https://thmosqueiro.vandroiy.com)
 * [Twitter](https://bsky.app/profile/thmosqueiro.bsky.social)
 * [LinkedIn](https://www.linkedin.com/in/thmosqueiro/)<a href="https://www.instagram.com/thmosqueiro/" target="blank">
 
